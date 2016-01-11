@@ -1,0 +1,129 @@
+
+
+header{
+	background: #c7b39b url(images/21.jpg);
+	width: 100%;
+	height: 43%;
+	background-color: white;
+
+}
+
+
+
+#logo {
+	float: left;
+}
+
+#headline{
+	margin-left: 150px;
+	float: left;
+
+}
+
+#map {
+float: right;
+margin-right: 1%;
+}
+
+#lion {
+	width: 120%;
+	height: 90%;
+}
+
+h1 {
+	color: 1B133B;
+	font-size: 250%;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+
+}
+.map{
+	
+margin: auto;
+
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+
+.rightimg {
+ float:right; /* Выравнивание по правому краю */
+ margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.container {
+	margin-left: 20%;
+	width: 60%; 
+	background-color: white;
+	opacity: 0.9; /* Значение прозрачности */
+}
+
+p {
+	font-size: 110%;
+}
+
+.paragraph {
+	height: 350px;
+}
+
+#style1 {
+    font-size: 20px;
+	font-style: italic;
+}
+
+#style2 {
+    font-size: 20px;
+	font-family: "Calibri", serif;
+}
+
+#style3 {
+	font-size: 20px;
+	font-family: "comic sans ms", serif;
+}
+
+button {
+	float: right;
+	position: relative;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #cc5500;
+  padding: .8em 2em;
+  outline: none;
+  border-radius: 1px;
+  background: #FF0000;
+  background-size: 100% 100%, auto;
+  background-position: 50% 50%;
+  box-shadow: inset #ebab00 0 -1px 1px, inset 0 1px 1px #ffbf00, #cc7722 0 0 0 1px, #000 0 10px 15px -10px;
+}
+ body{
+ 	background:url(images/123.jpg);
+ 	background-position: left bottom;
+ 	background-repeat: <no-repeat>
+
+ }
+table {
+	margin: auto;
+  border: 1px solid #000000;
+}
+th {
+  font-weight: normal;
+  color: #000000;
+  padding: 10px;
+  background:#ffffff;
+}
+td {
+  color: #669;
+  border-top: 1px dashed #fff;
+  padding: 10px;
+  background:#ffffff;
+}
+tr:hover td {
+  background:#ff0000;
+}
+
+.header {
+	height: 300px;
+
+}
